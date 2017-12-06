@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import subprocess
 code_dir = "code"
-title = "Stanford ACM-ICPC Team Notebook"
+title = "Team MostWanted ICPC Notebook"
 
 def add_toc(html, sections):
     html2 = ''
